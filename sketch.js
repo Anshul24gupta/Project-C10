@@ -1,7 +1,6 @@
 
 function preload(){
-seaImg = loadimage("sea.png");
-shipImg1 = loadanimation("sea.png");
+
 }
 
 function setup(){
